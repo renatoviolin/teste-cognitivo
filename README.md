@@ -28,7 +28,7 @@ O modelo que possui maior fator R^2.
 Para validação o dataset foi splitado em train/test/validation, usando 80%-10%-10%
 
 ### Quais evidências você possui de que seu modelo é suficientemente bom?
-O modelo apresentou um Rˆ2 de ~ 0.6 que é regular considerando os preços com média e desvio padrão .
+O modelo apresentou um Rˆ2 de ~ 0.6 que é regular considerando os preços com média de 701,00 e desvio padrão 5611,00.
 
 
 ### Algumas propostas para possíveis melhorias
